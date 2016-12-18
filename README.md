@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 - [Slides](#slides)
 - [Courses](#courses)
 - [Books](#books)
+- [People](#people)
 - [Some Questions](#some-questions)
 
 ## Tutorials
@@ -21,13 +22,13 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 ### OOP Fundamentals
 *Object-oriented programming fundamentals tutorials.*
 
-* [Object Introduction (&#9658;)](https://www.youtube.com/watch?v=BXyUuMWoQ60) - An introduction about objects and related concepts.
-* [Intro To Object Associations (&#9658;)](https://www.youtube.com/watch?v=gTQgkkUo1Ro) - An introduction about object associations.
-* [Object-Oriented Programming (&#9658;)](https://www.youtube.com/watch?v=lbXsrHGhBAU) - An introduction about object-oriented programming in general.
-* [Getting Started with OOP in PHP (&#9658;)](https://www.youtube.com/watch?v=qlF1MuHlZ4Q) - Object-oriented programming introduction in PHP.
-* [Beginning OOP in PHP (&#9658;)](https://www.youtube.com/watch?v=oroX19Ie6nw) - Another object-oriented programming introduction in PHP.
-* [Intermediate OOP in PHP (&#9658;)](https://www.youtube.com/watch?v=KHkk6Lf-_xQ) - Intermediate concepts about object-oriented programming in PHP.
-* [PHP OOP Tutorials (&#9658;)](https://www.youtube.com/playlist?list=PL75B9D91CD69ED950) - Tutorials about OOP, Design Patterns and MVC.
+* [Object Introduction (&#9658;$)](https://www.youtube.com/watch?v=BXyUuMWoQ60) - An introduction about objects and related concepts.
+* [Intro To Object Associations (&#9658;$)](https://www.youtube.com/watch?v=gTQgkkUo1Ro) - An introduction about object associations.
+* [Object-Oriented Programming (&#9658;$)](https://www.youtube.com/watch?v=lbXsrHGhBAU) - An introduction about object-oriented programming in general.
+* [Getting Started with OOP in PHP (&#9658;$)](https://www.youtube.com/watch?v=qlF1MuHlZ4Q) - Object-oriented programming introduction in PHP.
+* [Beginning OOP in PHP (&#9658;$)](https://www.youtube.com/watch?v=oroX19Ie6nw) - Another object-oriented programming introduction in PHP.
+* [Intermediate OOP in PHP (&#9658;$)](https://www.youtube.com/watch?v=KHkk6Lf-_xQ) - Intermediate concepts about object-oriented programming in PHP.
+* [PHP OOP Tutorials (&#9658;$)](https://www.youtube.com/playlist?list=PL75B9D91CD69ED950) - Tutorials about OOP, Design Patterns and MVC.
 * [PHP Object Oriented Programming Fundamentals (&#9658;$)](https://code.tutsplus.com/courses/php-object-oriented-programming-fundamentals) - An introduction course about object-oriented programming in PHP.
 * [OOP Official PHP Reference](http://php.net/manual/en/language.oop5.php) - PHP official reference about object-oriented programming.
 * [Object-Oriented PHP for Beginners](https://code.tutsplus.com/tutorials/object-oriented-php-for-beginners--net-12762) - A tutorial about OOP in PHP for beginners.
@@ -39,20 +40,20 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 *Object-oriented programming advanced tutorials.*
 
 * [What Are Abstract Classes?](http://culttt.com/2014/03/26/abstract-classes/) - A tutorial explaining abstract classes in PHP.
-* [Abstract Classes and Interfaces (&#9658;)](https://www.youtube.com/watch?v=AU07jJc_qMQ) - Introduction about abstract classes and interfaces.
+* [Abstract Classes and Interfaces (&#9658;$)](https://www.youtube.com/watch?v=AU07jJc_qMQ) - Introduction about abstract classes and interfaces.
 * [When should I code to an Interface?](http://culttt.com/2014/04/02/code-interface/) - A tutorial explaining what is and when to use interfaces in PHP.
 * [Understanding and Applying Polymorphism in PHP](https://code.tutsplus.com/tutorials/understanding-and-applying-polymorphism-in-php--net-14362) - A tutorial explaining about abstract classes, interfaces and polymorphism in PHP.
-* [Inheritance and Polymorphism Concepts (&#9658;)](https://www.youtube.com/watch?v=A8Ztfuq96t4) - An introduction about inheritance and polymorphism.
+* [Inheritance and Polymorphism Concepts (&#9658;$)](https://www.youtube.com/watch?v=A8Ztfuq96t4) - An introduction about inheritance and polymorphism.
 * [Beyond Inheritance](http://blog.ircmaxell.com/2013/11/beyond-inheritance.html) - A tutorial explaining what is inheritance and its types.
-* [The Clean Code Talks - Inheritance, Polymorphism, & Testing (&#9658;)](https://www.youtube.com/watch?v=4F72VULWFvc) - A tutorial about polymorphism and how it affects testing.
+* [The Clean Code Talks - Inheritance, Polymorphism, & Testing (&#9658;$)](https://www.youtube.com/watch?v=4F72VULWFvc) - A tutorial about polymorphism and how it affects testing.
 * [PHP Namespaces Explained](http://daylerees.com/php-namespaces-explained) - A tutorial explaining how namespaces works in PHP.
 * [PHP Namespaces](http://www.sitepoint.com/php-namespaces/) - A tutorial explaining what is and how namespaces works in PHP.
-* [PHP Namespaces in 120 Seconds Tutorial (&#9658;)](http://knpuniversity.com/screencast/php-namespaces-in-120-seconds) - A 120 seconds long tutorial explaining what is and how to use namespaces in PHP.
+* [PHP Namespaces in 120 Seconds Tutorial (&#9658;$)](http://knpuniversity.com/screencast/php-namespaces-in-120-seconds) - A 120 seconds long tutorial explaining what is and how to use namespaces in PHP.
 * [PSR-Huh?](https://code.tutsplus.com/tutorials/psr-huh--net-29314) - An introduction about PSR standards.
 * [Autoloading in PHP and the PSR-0 Standard](http://www.sitepoint.com/autoloading-and-the-psr-0-standard/) - An introduction about what is autoloading in PHP and the PSR-0 standard.
 * [Battle of the Autoloaders: PSR-0 vs. PSR-4](http://www.sitepoint.com/battle-autoloaders-psr-0-vs-psr-4/) - A tutorial explaining the difference between PSR-0 and PSR-4 autoloader standards.
 * [PSR-4 Autoloading (&#9658;$)](https://laracasts.com/lessons/psr-4-autoloading) - A tutorial explaining PSR-4 autoloader standard.
-* [How Static Works in PHP (&#9658;)](https://www.youtube.com/watch?v=hbbdyyN9MRU) - An introduction on how static members work in PHP.
+* [How Static Works in PHP (&#9658;$)](https://www.youtube.com/watch?v=hbbdyyN9MRU) - An introduction on how static members work in PHP.
 * [When to Use Static Methods](http://verraes.net/2014/06/when-to-use-static-methods-in-php/) - A tutorial explaining when to use static methods in PHP.
 * [PHP Exceptions](https://code.tutsplus.com/tutorials/the-ins-and-outs-of-php-exceptions--net-22274) - An introduction about exceptions in PHP.
 * [When should you use an Exception?](http://culttt.com/2014/04/09/use-exception/) - A tutorial explaining when to use exceptions in PHP.
@@ -61,22 +62,22 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Magic Methods and Predefined Constants in PHP](http://www.sitepoint.com/magic-methods-and-predefined-constants-in-php/) - A tutorial about magic methods and predefined constants in PHP.
 * [What are PHP Traits?](http://culttt.com/2014/06/25/php-traits/) - A tutorial explaining what is and how to use traits in PHP.
 * [Using Traits in PHP 5.4](http://www.sitepoint.com/using-traits-in-php-5-4/) - Another tutorial explaining what is and how to use traits in PHP.
-* [The PHP Reflection API (&#9658;)](https://www.youtube.com/playlist?list=PLfdtiltiRHWG0__5Jb1HDaDgt2PeYjvU6) - A tutorial explaining the PHP Reflection API.
+* [The PHP Reflection API (&#9658;$)](https://www.youtube.com/playlist?list=PLfdtiltiRHWG0__5Jb1HDaDgt2PeYjvU6) - A tutorial explaining the PHP Reflection API.
 * [What is Reflection in PHP?](http://culttt.com/2014/07/02/reflection-php/) - A tutorial explaining what is, when to use and some samples about reflection in PHP.
 * [Reflection in PHP](https://code.tutsplus.com/tutorials/reflection-in-php--net-31408) - Another tutorial about reflection in PHP.
-* [UML 2.0 Tutorial (&#9658;)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc) - An introduction tutorial about UML.
+* [UML 2.0 Tutorial (&#9658;$)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc) - An introduction tutorial about UML.
 * [UML](http://sourcemaking.com/uml) - Another introduction tutorial about UML.
 * [Composer Primer](http://daylerees.com/composer-primer) - A complete tutorial about what is and how to use Composer.
 * [Easy Package Management With Composer](https://code.tutsplus.com/tutorials/easy-package-management-with-composer--net-25530) - An introduction about Composer.
 * [Better Workflow in PHP With Composer, Namespacing, and PHPUnit](https://code.tutsplus.com/tutorials/better-workflow-in-php-with-composer-namespacing-and-phpunit--net-29384) - An introduction tutorial explaining how to use Composer, namespaces and PHPUnit in a PHP project.
-* [PHP Testing Basics (&#9658;)](https://code.tutsplus.com/courses/php-testing-basics) - An introduction about tests in PHP.
+* [PHP Testing Basics (&#9658;$)](https://code.tutsplus.com/courses/php-testing-basics) - An introduction about tests in PHP.
 * [Test-Driven PHP in Action (&#9658;$)](https://code.tutsplus.com/courses/test-driven-php-in-action) - An introduction about test-driven development in PHP.
 * [OOP in PHP With Tests (&#9658;$)](https://code.tutsplus.com/courses/oop-in-php-with-tests) - A tutorial about OOP in PHP with tests.
 * [Introduction to PhpDoc](http://www.sitepoint.com/introduction-to-phpdoc/) - An introduction about code documentation in PHP.
-* [PHP & Enums (&#9658;)](https://www.youtube.com/watch?v=kdWRyl6x6JQ) - An introduction about enums in PHP.
+* [PHP & Enums (&#9658;$)](https://www.youtube.com/watch?v=kdWRyl6x6JQ) - An introduction about enums in PHP.
 * [Type Hinting in PHP](http://www.sitepoint.com/type-hinting-in-php/) - An introduction about type hinting in PHP.
 * [Introduction to Static and Dynamic Typing](http://www.sitepoint.com/typing-versus-dynamic-typing/) - A tutorial explaining static and dynamic typing in programming.
-* [Annotations in PHP: They Exist! (&#9658;)](https://www.youtube.com/watch?v=oDVspbFgDCo) - An introduction to annotations in PHP.
+* [Annotations in PHP: They Exist! (&#9658;$)](https://www.youtube.com/watch?v=oDVspbFgDCo) - An introduction to annotations in PHP.
 
 ### Object-Oriented Design
 *Object-oriented design tutorials.*
@@ -127,10 +128,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Working with Money and Currency in PHP](http://culttt.com/2014/06/04/working-money-currency-php/) - A tutorial about how to work with Money and Currency in PHP.
 * [Working with Products, Orders and Sales in PHP](http://culttt.com/2014/06/11/working-products-orders-sales-php/) - A tutorial about how to work with Products, Orders and Sales in PHP.
 * [Reusing Implementation – a Walk-through of Inheritance, Composition, and Delegation](http://www.sitepoint.com/reusing-implementation-a-walk-through-of-inheritance-composition-and-delegation/) - A tutorial about code reusing and OOP in PHP.
-* [Design Tech Talk Series Presents: OO Design for Testability (&#9658;)](https://www.youtube.com/watch?v=acjvKJiOvXw&index=8&list=PL693EFD059797C21E) - A talk about Object-Oriented Design a testability.
-* [The Clean Code Talks - Don't Look For Things! (&#9658;)](https://www.youtube.com/watch?v=RlfLCWKxHJ0) - Another talk about Object-Oriented Design a testability.
-* [Programming With Anthony - Paradigm Soup (&#9658;)](http://blog.ircmaxell.com/2012/11/programming-with-anthony-paradigm-soup.html) - An introduction to programming paradigms and its differences.
-* [Programming With Anthony - Dependency Injection (&#9658;)](http://blog.ircmaxell.com/2013/01/dependency-injection-programming-with.html) - An introduction to Dependency Injection.
+* [Design Tech Talk Series Presents: OO Design for Testability (&#9658;$)](https://www.youtube.com/watch?v=acjvKJiOvXw&index=8&list=PL693EFD059797C21E) - A talk about Object-Oriented Design a testability.
+* [The Clean Code Talks - Don't Look For Things! (&#9658;$)](https://www.youtube.com/watch?v=RlfLCWKxHJ0) - Another talk about Object-Oriented Design a testability.
+* [Programming With Anthony - Paradigm Soup (&#9658;$)](http://blog.ircmaxell.com/2012/11/programming-with-anthony-paradigm-soup.html) - An introduction to programming paradigms and its differences.
+* [Programming With Anthony - Dependency Injection (&#9658;$)](http://blog.ircmaxell.com/2013/01/dependency-injection-programming-with.html) - An introduction to Dependency Injection.
 * [What is Dependency Injection?](http://fabien.potencier.org/article/11/what-is-dependency-injection) - An introduction to Dependency Injection in PHP.
 * [Dependency Injection with PHP 5.3](http://www.slideshare.net/fabpot/dependency-injection-in-php-5354) - Slides about Dependency Injection in PHP.
 * [Why use a Dependency Injection Container?](http://richardmiller.co.uk/2011/07/07/dependency-injection-moving-from-basics-to-container/) - A tutorial of what is and when to use a Dependency Injection Container.
@@ -143,12 +144,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 
 * [Design Patterns](http://sourcemaking.com/design_patterns) - A complete tutorial about design patterns.
 * [A Beginner's Guide to Design Patterns](https://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752) - An introduction tutorial to design patterns.
-* [Design Patterns - Programming With Anthony (&#9658;)](http://blog.ircmaxell.com/2013/02/design-patterns-programming-with-anthony.html) - An introduction to design patterns.
+* [Design Patterns - Programming With Anthony (&#9658;$)](http://blog.ircmaxell.com/2013/02/design-patterns-programming-with-anthony.html) - An introduction to design patterns.
 * [Beyond Design Patterns](http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html) - Another introduction tutorial to design patterns.
 * [The Whens and Whys for PHP Design Patterns](https://code.tutsplus.com/tutorials/the-whens-and-whys-for-php-design-patterns--net-27862) - A tutorial explaining why and when use design patterns in PHP.
-* [Design Patterns Workshop (&#9658;)](https://www.youtube.com/watch?v=0L1pgDPt8U8) - A workshop about design patterns in PHP.
-* [Design Patterns Video Tutorial (&#9658;)](https://www.youtube.com/playlist?list=PLF206E906175C7E07) - A series about design patterns.
-* [PHP Design Patterns - Elements of Reusable Object-Oriented Software (&#9658;)](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xGaW0AGlaVHK2TMEr2XkP9) - A series about design patterns in PHP.
+* [Design Patterns Workshop (&#9658;$)](https://www.youtube.com/watch?v=0L1pgDPt8U8) - A workshop about design patterns in PHP.
+* [Design Patterns Video Tutorial (&#9658;$)](https://www.youtube.com/playlist?list=PLF206E906175C7E07) - A series about design patterns.
+* [PHP Design Patterns - Elements of Reusable Object-Oriented Software (&#9658;$)](https://www.youtube.com/playlist?list=PLGJDCzBP5j3xGaW0AGlaVHK2TMEr2XkP9) - A series about design patterns in PHP.
 * [Agile Design Patterns (&#9658;$)](https://code.tutsplus.com/courses/agile-design-patterns) - A series about design patterns in PHP.
 * [Design Patterns in PHP (&#9658;$)](http://www.lynda.com/PHP-tutorials/Design-Patterns-PHP/186870-2.html) - Another series about design patterns in PHP.
 * [Introduction to Design Patterns with PHP](https://speakerdeck.com/hhamon/introduction-to-design-patterns-with-php) - An introduction slide to SOLID and design patterns in PHP.
@@ -159,8 +160,8 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 * [Practical Aspects of the Adapter Pattern](http://www.sitepoint.com/practical-aspects-of-the-adapter-pattern/) - Another tutorial about Adapter pattern in PHP.
 * [Understanding the Command Design Pattern](http://www.sitepoint.com/understanding-the-command-design-pattern/) - A tutorial about Command pattern in PHP.
 * [Understanding the Observer Pattern](http://www.sitepoint.com/understanding-the-observer-pattern/) - A tutorial about Observer pattern in PHP.
-* [Iterators - Programming With Anthony (&#9658;)](http://blog.ircmaxell.com/2013/01/todays-programming-with-anthony-video.html) - An introduction to Iterator pattern in PHP.
-* [Iterators in PHP (&#9658;)](https://www.youtube.com/watch?v=t7KLwA52K7Y) - A talk about iterators in PHP.
+* [Iterators - Programming With Anthony (&#9658;$)](http://blog.ircmaxell.com/2013/01/todays-programming-with-anthony-video.html) - An introduction to Iterator pattern in PHP.
+* [Iterators in PHP (&#9658;$)](https://www.youtube.com/watch?v=t7KLwA52K7Y) - A talk about iterators in PHP.
 * [Mediators - Programming With Anthony](http://blog.ircmaxell.com/2013/01/mediators-programming-with-anthony.html) - An introduction to Mediator pattern.
 * [Manage Complexity with the Facade Pattern](http://www.sitepoint.com/manage-complexity-with-the-facade-pattern/) - An introduction to Facade pattern in PHP.
 * [What are the benefits of using Repositories?](http://culttt.com/2014/09/08/benefits-using-repositories/) - An introduction to Repository pattern in PHP.
@@ -174,12 +175,12 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 *Refactoring tutorials.*
 
 * [Refactoring](http://sourcemaking.com/refactoring) - A complete tutorial guide about refactoring.
-* [Code Refactoring (&#9658;)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV) - A series about code refactoring.
-* [Clean Code Refactoring (&#9658;)](https://www.youtube.com/watch?v=3oVNbNaitRA) - A talk about refactoring and clean code in PHP.
+* [Code Refactoring (&#9658;$)](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSuz6NuHAzpM52qKM6bPlCV) - A series about code refactoring.
+* [Clean Code Refactoring (&#9658;$)](https://www.youtube.com/watch?v=3oVNbNaitRA) - A talk about refactoring and clean code in PHP.
 * [Refactoring Legacy Code](https://code.tutsplus.com/series/refactoring-legacy-code--cms-633) - A tutorial series about refactoring legacy code with examples.
 * [Detecting Code Smells (&#9658;$)](https://code.tutsplus.com/courses/detecting-code-smells) - A series about code smells in PHP.
 * [Techniques for Refactoring Code (&#9658;$)](https://code.tutsplus.com/courses/techniques-for-refactoring-code) - A series about refactoring code in PHP.
-* [Workflows of Refactoring (&#9658;)](https://www.youtube.com/watch?v=vqEg37e4Mkw) - A talk about workflows of refactoring.
+* [Workflows of Refactoring (&#9658;$)](https://www.youtube.com/watch?v=vqEg37e4Mkw) - A talk about workflows of refactoring.
 * [Beyond Clean Code](http://blog.ircmaxell.com/2013/11/beyond-clean-code.html) - An introduction about clean code.
 * [Catalog of Refactorings](http://refactoring.com/catalog/index.html) - A catalog of refactorings.
 
@@ -187,7 +188,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 *Architecture tutorials.*
 
 * [Create Your Own PHP Framework](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1) - A series of articles on how to create your own PHP framework.
-* [Creating Your Own MVC Series (&#9658;)](https://www.youtube.com/playlist?list=PL7A20112CF84B2229) - Another series on how to create your own PHP framework.
+* [Creating Your Own MVC Series (&#9658;$)](https://www.youtube.com/playlist?list=PL7A20112CF84B2229) - Another series on how to create your own PHP framework.
 * [A Beginner's Guide To MVC For The Web](http://blog.ircmaxell.com/2014/11/a-beginners-guide-to-mvc-for-web.html) - A tutorial about MVC for the web.
 * [The MVC Pattern and PHP, Part 1](http://www.sitepoint.com/the-mvc-pattern-and-php-1/) and [The MVC Pattern and PHP, Part 2](http://www.sitepoint.com/the-mvc-pattern-and-php-2/) - An introduction tutorial about MVC pattern.
 * [Alternatives To MVC](http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html) - An introduction to alternative architectures to MVC.
